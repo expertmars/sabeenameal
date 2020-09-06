@@ -1,6 +1,6 @@
 # mealapp
 
-A new Flutter project.
+A meal app created in flutter
 
 ## Getting Started
 
